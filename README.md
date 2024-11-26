@@ -34,5 +34,5 @@ Well, there are only few social platforms that I use for talking or other purpos
 - ![Static Badge](https://img.shields.io/badge/Reddit-orange?style=flat&logo=Reddit&logoColor=white&labelColor=black&color=orange&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fmrdrewthegod%2F)
 
 
-> [!WARNING]
+> [!CAUTION]
 > This user is suspected to be involving in cyber crime. Please report any suspicious activity from this user.
